@@ -1,0 +1,21 @@
+h1 {
+	font-family: Comic Sans MS;
+	color: #1111FF;
+}
+
+h2 {
+
+	font-family: Comic Sans MS;
+	color: red;
+}
+
+h3 {
+
+	font-family: Comic Sans MS;
+	color: blue;
+}
+
+span {
+	color: green;
+	font-style:italic;
+}
